@@ -7,7 +7,7 @@ const projects = [
     description: "Full Stack SASS AI image generation Web Application.Generate text to images.",
     image: "/projects/Imagify.png",
     tags: ["React", "TailwindCSS", "MongoDB"],
-    demoUrl: "https://imagify-jxla.onrender.com/",
+    demoUrl: "https://imagify2-sigma.vercel.app/",
     githubUrl: "https://github.com/gauravnegi05/imagify",
   },
   {
