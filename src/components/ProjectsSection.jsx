@@ -19,13 +19,24 @@ const projects = [
     tags: ["React", "TailwindCSS", "node"],
     demoUrl: "https://thinkboard-n9lw.onrender.com/",
     githubUrl: "https://github.com/gauravnegi05/ThinkBoard",
-  }
+  },
+  {
+    id: 3,
+    title: "TO-DO",
+    description:
+      "TO-DO web application for day to day task management.",
+    image: "/projects/To-Do.png",
+    tags: ["React", "CSS"],
+    demoUrl: "https://to-do-snowy-eight-85.vercel.app/",
+    githubUrl: "https://github.com/gauravnegi05/TO-DO",
+  },
+
   // {
-  //   id: 3,
+  //   id: 4,
   //   title: "E-commerce Platform",
   //   description:
   //     "Full-featured e-commerce platform with user authentication and payment processing.",
-  //   image: "/projects/project3.png",
+  //   image: "/projects/project4.png",
   //   tags: ["React", "Node.js", "Stripe"],
   //   demoUrl: "#",
   //   githubUrl: "#",
