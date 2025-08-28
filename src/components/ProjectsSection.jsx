@@ -25,7 +25,7 @@ const projects = [
     title: "TO-DO",
     description:
       "TO-DO web application for day to day task management.",
-    image: "/projects/To-Do.png",
+    image: "/projects/TO-DO.png",
     tags: ["React", "CSS"],
     demoUrl: "https://to-do-snowy-eight-85.vercel.app/",
     githubUrl: "https://github.com/gauravnegi05/TO-DO",
