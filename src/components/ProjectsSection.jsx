@@ -31,8 +31,19 @@ const projects = [
     githubUrl: "https://github.com/gauravnegi05/TO-DO",
   },
 
+  {
+    id: 4,
+    title: "Chatty",
+    description:
+      "Full-featured Messaging platform with user authentication.",
+    image: "/projects/chatty.png",
+    tags: ["React", "Node.js", "Express", "TailwindCSS"],
+    demoUrl: "https://chatty-s3e7.onrender.com/login",
+    githubUrl: "https://github.com/gauravnegi05/Chatty",
+  },
+
   // {
-  //   id: 4,
+  //   id: 5,
   //   title: "E-commerce Platform",
   //   description:
   //     "Full-featured e-commerce platform with user authentication and payment processing.",
