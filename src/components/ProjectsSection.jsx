@@ -42,16 +42,16 @@ const projects = [
     githubUrl: "https://github.com/gauravnegi05/Chatty",
   },
 
-  // {
-  //   id: 5,
-  //   title: "E-commerce Platform",
-  //   description:
-  //     "Full-featured e-commerce platform with user authentication and payment processing.",
-  //   image: "/projects/project4.png",
-  //   tags: ["React", "Node.js", "Stripe"],
-  //   demoUrl: "#",
-  //   githubUrl: "#",
-  // },
+  {
+    id: 5,
+    title: "Gold To Cash (GTC)",
+    description:
+      "Full-featured e-commerce platform with user authentication and payment processing.",
+    image: "/projects/GTC.png",
+    tags: ["React", "Node.js", "TailwindCSS"],
+    demoUrl: "https://aiiongoldgtp.com/",
+    githubUrl: "#",
+  },
 ];
 
 export const ProjectsSection = () => {
