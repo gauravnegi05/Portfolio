@@ -4,7 +4,8 @@ const projects = [
   {
     id: 1,
     title: "Imagify",
-    description: "Full Stack SASS AI image generation Web Application.Generate text to images.",
+    description:
+      "Full Stack SASS AI image generation Web Application.Generate text to images.",
     image: "/projects/Imagify.png",
     tags: ["React", "TailwindCSS", "MongoDB"],
     demoUrl: "https://imagify2-sigma.vercel.app/",
@@ -23,8 +24,7 @@ const projects = [
   {
     id: 3,
     title: "TO-DO",
-    description:
-      "TO-DO web application for day to day task management.",
+    description: "TO-DO web application for day to day task management.",
     image: "/projects/TO-DO.png",
     tags: ["React", "CSS"],
     demoUrl: "https://to-do-snowy-eight-85.vercel.app/",
@@ -34,8 +34,7 @@ const projects = [
   {
     id: 4,
     title: "Chatty",
-    description:
-      "Full-featured Messaging platform with user authentication.",
+    description: "Full-featured Messaging platform with user authentication.",
     image: "/projects/chatty.png",
     tags: ["React", "Node.js", "Express", "TailwindCSS"],
     demoUrl: "https://chatty-s3e7.onrender.com/login",
@@ -50,6 +49,16 @@ const projects = [
     image: "/projects/GTC.png",
     tags: ["React", "Node.js", "TailwindCSS"],
     demoUrl: "https://aiiongoldgtp.com/",
+    githubUrl: "#",
+  },
+  {
+    id: 6,
+    title: "Personal Digital Assistant (PDA)",
+    description:
+      "Built a scalable React web app to manage franchises, logistics, and admin roles with secure authentication and RBAC.",
+    image: "/projects/PDA.png",
+    tags: ["React", "Node.js", "TailwindCSS"],
+    demoUrl: "https://pda.admin.aiiongoldgtc.com/login",
     githubUrl: "#",
   },
 ];
