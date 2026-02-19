@@ -61,6 +61,16 @@ const projects = [
     demoUrl: "https://pda.admin.aiiongoldgtc.com/login",
     githubUrl: "#",
   },
+  {
+    id: 7,
+    title: "Crypto App",
+    description:
+      "A React-based cryptocurrency dashboard that fetches real-time data from the CoinGiko API.",
+    image: "/projects/CryptoApp.png",
+    tags: ["React", "Node.js", "TailwindCSS"],
+    demoUrl: "https://crypto-app-eight-omega.vercel.app/",
+    githubUrl: "https://github.com/gauravnegi05/Crypto-App",
+  },
 ];
 
 export const ProjectsSection = () => {
