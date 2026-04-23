@@ -71,6 +71,25 @@ const projects = [
     demoUrl: "https://crypto-app-eight-omega.vercel.app/",
     githubUrl: "https://github.com/gauravnegi05/Crypto-App",
   },
+  {
+    id: 8,
+    title: "BetnEarn",
+    description: "Read the Market Predict the Move & Win Faster.",
+    image: "/projects/bettingLogo.jpeg",
+    tags: ["React", "Node.js", "TailwindCSS"],
+    demoUrl: "https://betnearn.com/",
+    githubUrl: "#",
+  },
+  {
+    id: 9,
+    title: "SocioEarn",
+    description:
+      "A free earning app like Socioearn is presented as an online platform where users get paid for doing simple social media tasks such as: sharing, liking, commenting, and following media posts. You complete tasks, submit proof, and earn rewards.",
+    image: "/projects/SocioEarn_logo.png",
+    tags: ["React", "Node.js", "TailwindCSS"],
+    demoUrl: "https://socioearn.com/",
+    githubUrl: "#",
+  },
 ];
 
 export const ProjectsSection = () => {
